@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas o adaptas esta obra, por favor cítala así."
+title: "H Corp: manifiesto y estándar para una IA que suma y reparte (versión 0.1)"
+type: generic
+version: "0.1"
+date-released: "2026-11-21"
+license: CC-BY-4.0
+authors:
+  - family-names: "Garavito Jiménez"
+    given-names: "Daniel Alfonso"
+    affiliation: "Sinergística"
+    email: "dagaravitoj@gmail.com"
+keywords:
+  - inteligencia artificial
+  - trabajo
+  - productividad
+  - certificación
+  - dividendo de la IA
+  - futuro del trabajo

@@ -1,0 +1,12 @@
+{
+  "title": "H Corp: manifiesto y estándar para una IA que suma y reparte (versión 0.1)",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "<p>H Corp es una propuesta de sello internacional para empresas que usan la inteligencia artificial para producir más sin reemplazar a las personas, que les dan voz en cómo se usa y que reparten parte del excedente que la IA genera (el dividendo de la IA). Esta versión 0.1 reúne el manifiesto (diez principios), el estándar en borrador (cinco pilares, tres niveles, la regla de cálculo del dividendo y la gobernanza del sello) y la identidad de marca. Es un borrador en consulta abierta.</p><p><em>H Corp is a proposed international certification for companies that use AI to raise productivity without replacing people, give workers a voice in how it is used, and share part of the surplus it creates (the AI dividend). Version 0.1, open for consultation.</em></p>",
+  "creators": [{"name": "Garavito Jiménez, Daniel Alfonso", "affiliation": "Sinergística"}],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "spa",
+  "version": "0.1",
+  "keywords": ["inteligencia artificial", "trabajo", "productividad", "certificación", "dividendo de la IA", "futuro del trabajo", "artificial intelligence", "AI dividend"]
+}
