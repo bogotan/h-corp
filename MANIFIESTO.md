@@ -9,6 +9,12 @@ H Corp es un sello para empresas que usan la inteligencia artificial para produc
 
 Nació en Colombia, donde dar la mano vuelta es ayudarle al vecino sabiendo que él vendrá a ayudarte. Es la economía más vieja que tenemos, y es justo la que necesitamos para la más nueva.
 
+## El principio cero: la humanidad es socia de la IA
+
+La IA se hizo con lo que la humanidad dijo, escribió y supo durante siglos. Ese acervo es patrimonio común, y quien aporta algo esencial merece su parte: no como limosna, sino como dueño. Cada persona aportó lo suyo a una lengua que es de todos, así que la parte justa es la misma para todos: una acción por persona.
+
+Ese derecho se ejerce en tres escalas: en la empresa, en la nación y en la humanidad. H Corp es la primera, la que se puede empezar el lunes. Las otras dos necesitan leyes y tratados; la primera solo necesita empresas que quieran hacerlo.
+
 ## Diez cosas que creemos
 
 **1. La IA aprendió de todos nosotros.**

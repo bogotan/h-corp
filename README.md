@@ -12,7 +12,8 @@ Esta es la versión 0.1, un borrador en consulta abierta.
 
 | Archivo | Qué es |
 | --- | --- |
-| [MANIFIESTO.md](MANIFIESTO.md) | Diez cosas que creemos sobre la IA, el trabajo y el reparto |
+| [MANIFIESTO.md](MANIFIESTO.md) | El principio cero (la humanidad es socia de la IA) y diez cosas que creemos sobre la IA, el trabajo y el reparto |
+| [ENSAYO.md](ENSAYO.md) | *Accionistas de la inteligencia*: la teoría detrás del sello (el río y el molino, el valor de Shapley del común, las tres escalas) |
 | [ESTANDAR.md](ESTANDAR.md) | El estándar en borrador: cinco pilares, tres niveles, la regla del dividendo y la gobernanza |
 | [REFERENTES.md](REFERENTES.md) | Los sellos, acuerdos y propuestas en los que se inspira, y lo que ninguno cubre |
 | [marca/](marca/) | Identidad: marca, colores, tipografía, voz y rutas de exploración del logo |
@@ -30,7 +31,9 @@ Más detalles en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Cómo citar
 
-Garavito Jiménez, D. A. (2026). *H Corp: manifiesto y estándar para una IA que suma y reparte* (versión 0.1). Sinergística.
+Garavito Jiménez, D. A. (2026). *H Corp: manifiesto, ensayo y estándar para una IA que suma y reparte* (versión 0.1). Sinergística.
+
+Para el ensayo: Garavito Jiménez, D. A. (2026). *Accionistas de la inteligencia: ensayo sobre por qué la humanidad es socia de la inteligencia artificial*. En *H Corp* (versión 0.1). Sinergística.
 
 Los datos de citación están en [CITATION.cff](CITATION.cff).
 

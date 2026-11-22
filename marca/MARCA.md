@@ -8,6 +8,7 @@ Esta es una primera versión hecha desde cero. Antes de usar el nombre en públi
 
 ## Lo que decimos
 
+0. La humanidad es socia de la IA: una acción por persona.
 1. La IA aprendió de todos nosotros; lo que produce es, en parte, de todos.
 2. La pregunta no es si usar la IA, sino quién se queda con lo que gana.
 3. Nadie sale por la IA.
