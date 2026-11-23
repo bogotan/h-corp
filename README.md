@@ -8,6 +8,8 @@ H Corp es una propuesta de sello internacional para empresas que usan la intelig
 
 Esta es la versión 0.1, un borrador en consulta abierta.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429886.svg)](https://doi.org/10.5281/zenodo.24429886) · Obra completa en Zenodo: [10.5281/zenodo.24429886](https://doi.org/10.5281/zenodo.24429886)
+
 ## Qué hay aquí
 
 | Archivo | Qué es |
@@ -31,9 +33,9 @@ Más detalles en [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Cómo citar
 
-Garavito Jiménez, D. A. (2026). *H Corp: manifiesto, ensayo y estándar para una IA que suma y reparte* (versión 0.1). Sinergística.
+Garavito Jiménez, D. A. (2026). *H Corp: manifiesto, ensayo y estándar para una IA que suma y reparte* (versión 0.1). Sinergística. https://doi.org/10.5281/zenodo.24429886
 
-Para el ensayo: Garavito Jiménez, D. A. (2026). *Accionistas de la inteligencia: ensayo sobre por qué la humanidad es socia de la inteligencia artificial*. En *H Corp* (versión 0.1). Sinergística.
+Para el ensayo: Garavito Jiménez, D. A. (2026). *Accionistas de la inteligencia: ensayo sobre por qué la humanidad es socia de la inteligencia artificial*. En *H Corp* (versión 0.1). Sinergística. https://doi.org/10.5281/zenodo.24429886
 
 Los datos de citación están en [CITATION.cff](CITATION.cff).
 

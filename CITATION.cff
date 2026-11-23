@@ -3,7 +3,10 @@ message: "Si usas o adaptas esta obra, por favor cítala así."
 title: "H Corp: manifiesto, ensayo y estándar para una IA que suma y reparte (versión 0.1)"
 type: generic
 version: "0.1"
-date-released: "2026-11-21"
+date-released: "2026-11-23"
+doi: "10.5281/zenodo.24429886"
+repository-code: "https://github.com/bogotan/h-corp"
+url: "https://doi.org/10.5281/zenodo.24429886"
 license: CC-BY-4.0
 authors:
   - family-names: "Garavito Jiménez"
@@ -17,3 +20,5 @@ keywords:
   - certificación
   - dividendo de la IA
   - futuro del trabajo
+  - accionariado universal
+  - valor de Shapley
